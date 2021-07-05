@@ -1,0 +1,61 @@
+hr{
+    color: greenyellow;
+}
+span{
+    color:brown;
+}
+.flexible{
+    display:flex;
+    margin:0;
+    
+}
+.size{
+    width:40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 18px;
+}
+.size img{
+    width:90%;
+    
+}
+a{
+    color:crimson;
+    border:2px solid orange;
+    padding: 2px;
+    text-decoration: none;
+    background-color: orange;
+    
+}
+li{
+    border:2px;
+    margin:20px ;
+   
+}
+.position{
+    text-align: center;
+}
+.displaying{
+    display: flex;
+}
+.structure{
+    width:40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 18px;
+    background-color:gray;
+    border:2px solid black;
+    margin-left: 5%;
+    margin-right:5%;
+    color:white;
+    border-left: 3px solid blue;
+    border-top: 2px solid yellow;
+    border-right: 3px solid blue;
+    border-bottom: 2px solid yellow;
+    border-radius: 15px;
+    
+}
+.text{
+    text-align: center;
+}
+
